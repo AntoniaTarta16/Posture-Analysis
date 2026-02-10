@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.SpinalX" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowSplashScreenBackground">#005698</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/spinalx_logo</item>
+    </style>
+
+    <style name="Theme.SpinalX.App" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#005698</item>
+    </style>
+</resources>

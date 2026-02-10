@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">SpinalX</string>
+    <string name="select_image">Select Photo</string>
+    <string name="classify_posture">Analyze Posture</string>
+    <string name="logo">SpinalX Logo</string>
+    <string name="posture_image">Posture preview image</string>
+    <string name="take_photo">Take photo</string>
+    <string name="title">SpinalX</string>
+    <string name="info">Info</string>
+    <string name="tip_title">Posture Tip</string>
+    <string name="tip">Avoid sitting with your legs crossed for long periods. It may lead to muscle imbalance and postural asymmetry.</string>
+    <string name="close_tip">Got it</string>
+    <string name="correct_posture">Correct posture</string>
+    <string name="do_it">Do it</string>
+    <string name="tip1">Align head and shoulders</string>
+    <string name="tip2">Sit upright with back supported</string>
+    <string name="tip3">Keep both feet on the floor</string>
+    <string name="tip4">Do not slouch on the chair</string>
+    <string name="tip5">Do not cross your legs</string>
+    <string name="tip6">Do not lean to one side"</string>
+    <string name="do_not">Do not</string>
+    <string name="got_it">Got it</string>
+    <string name="tip_asymmetry">It looks like your shoulders are not at the same level. Try to adopt a correct posture!</string>
+    <string name="tip_stooped">It looks like your upper body is leaning forward. Try to adopt a correct posture!</string>
+    <string name="tip_slouched">It looks like your body is not supported by muscles. Try to adopt a correct posture!</string>
+</resources>
